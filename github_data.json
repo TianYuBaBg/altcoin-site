@@ -263,7 +263,7 @@
   "bitcoin/bitcoin": {
     "full_name": "bitcoin/bitcoin",
     "stars": 89274,
-    "forks": 38987,
+    "forks": 38986,
     "open_issues": 676,
     "pushed_at": "2026-06-06T11:53:47Z",
     "archived": false,
@@ -1636,7 +1636,7 @@
     "stars": 12,
     "forks": 81,
     "open_issues": 5,
-    "pushed_at": "2026-06-06T01:01:44Z",
+    "pushed_at": "2026-06-06T15:57:49Z",
     "archived": false,
     "description": "Native Node.js addon for multichain block templates, block blobs, and merged-mining helpers used by pool backends",
     "language": "C++",
