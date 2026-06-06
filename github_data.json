@@ -86,7 +86,7 @@
     "full_name": "ahuman-exfer/exfer",
     "stars": 14,
     "forks": 4,
-    "open_issues": 7,
+    "open_issues": 6,
     "pushed_at": "2026-06-06T04:59:48Z",
     "archived": false,
     "description": "",
@@ -263,8 +263,8 @@
   "bitcoin/bitcoin": {
     "full_name": "bitcoin/bitcoin",
     "stars": 89267,
-    "forks": 38982,
-    "open_issues": 675,
+    "forks": 38981,
+    "open_issues": 676,
     "pushed_at": "2026-06-04T09:39:04Z",
     "archived": false,
     "description": "Bitcoin Core integration/staging tree",
@@ -951,6 +951,17 @@
     "language": "Rust",
     "topics": []
   },
+  "gideonlouw/xyqon": {
+    "full_name": "gideonlouw/xyqon",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-05T08:37:08Z",
+    "archived": false,
+    "description": "XYQON",
+    "language": "Rust",
+    "topics": []
+  },
   "gjhiggins/slimcoin": {
     "full_name": "gjhiggins/slimcoin",
     "error": true,
@@ -1209,8 +1220,8 @@
     "full_name": "iriumlabs/irium",
     "stars": 9,
     "forks": 2,
-    "open_issues": 17,
-    "pushed_at": "2026-06-06T04:34:46Z",
+    "open_issues": 18,
+    "pushed_at": "2026-06-06T05:08:52Z",
     "archived": false,
     "description": "Irium blockchain node — full-node Rust implementation with settlement, proof automation, and decentralized commerce",
     "language": "Rust",
