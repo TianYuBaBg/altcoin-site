@@ -1,0 +1,338 @@
+{
+  "arrr": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "bc2": {
+    "url": "https://bitcointalk.org/index.php?topic=5548676.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "bch2": {
+    "url": "https://bitcointalk.org/index.php?topic=5575145.0",
+    "exchange_hints": [
+      "nonkyc",
+      "exchange listing",
+      "listed on"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "beam": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "ccx": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "dmd": {
+    "url": "https://bitcointalk.org/index.php?topic=5575195.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "erg": {
+    "url": "https://bitcointalk.org/index.php?topic=5150971.0",
+    "exchange_hints": [
+      "exchange listing",
+      "listed on"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "eth": {
+    "url": "https://bitcointalk.org/index.php?topic=5575395.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "firo": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "fix": {
+    "url": "https://bitcointalk.org/index.php?topic=5562505.0",
+    "exchange_hints": [
+      "nonkyc",
+      "exchange listing"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "flc": {
+    "url": "https://bitcointalk.org/index.php?topic=5561872.0",
+    "exchange_hints": [
+      "nonkyc"
+    ],
+    "tech_hints": [
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "kas": {
+    "url": "https://bitcointalk.org/index.php?topic=5373286.0",
+    "exchange_hints": [
+      "tradeogre",
+      "txbit"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "kls": {
+    "url": "https://bitcointalk.org/index.php?topic=5583981.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "krgn": {
+    "url": "https://bitcointalk.org/index.php?topic=5579369.0",
+    "exchange_hints": [
+      "nonkyc",
+      "exchange listing"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "lpepe": {
+    "url": "https://bitcointalk.org/index.php?topic=5575361.0",
+    "exchange_hints": [
+      "nonkyc"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "myt": {
+    "url": "https://bitcointalk.org/index.php?topic=5577468.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "ogg": {
+    "url": "https://bitcointalk.org/index.php?topic=5576535.0",
+    "exchange_hints": [
+      "exchange listing"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "prl": {
+    "url": "https://bitcointalk.org/index.php?topic=5584502.0",
+    "exchange_hints": [
+      "safetrade"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "qtc": {
+    "url": "https://bitcointalk.org/index.php?topic=5538348.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "rtm": {
+    "url": "https://bitcointalk.org/index.php?topic=5065848.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mineable",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "rvn": {
+    "url": "https://bitcointalk.org/index.php?topic=3238497.0",
+    "exchange_hints": [
+      "exchange listing"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "proof of work",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "sal": {
+    "url": "https://bitcointalk.org/index.php?topic=5501990.0",
+    "exchange_hints": [],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": false,
+    "fetch_success": true
+  },
+  "veil": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "vrsc": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "xeqm": {
+    "url": "https://bitcointalk.org/index.php?topic=5582727.0",
+    "exchange_hints": [
+      "listed on"
+    ],
+    "tech_hints": [
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  },
+  "zano": {
+    "url": null,
+    "fetch_success": false,
+    "error": "NO_ANN_URL"
+  },
+  "zeph": {
+    "url": "https://bitcointalk.org/index.php?topic=5454352.0",
+    "exchange_hints": [
+      "nonkyc",
+      "exchange listing"
+    ],
+    "tech_hints": [
+      "algorithm",
+      "pow",
+      "gpu",
+      "cpu",
+      "mining"
+    ],
+    "has_exchange_info": true,
+    "fetch_success": true
+  }
+}

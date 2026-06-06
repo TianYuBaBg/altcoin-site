@@ -1,0 +1,272 @@
+{
+  "safetrade": [
+    {
+      "source": "safetrade",
+      "ticker": "ARB",
+      "name": "Arbitrum",
+      "website": "https://arbitrum.io/",
+      "trade_url": "https://safetrade.com/exchange/ARB-USDT",
+      "listing_date": "2025-07-31",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/38485847075213-Arbitrum-ARB-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "CPAY",
+      "name": "Cryptix Network",
+      "website": "https://cryptix-network.org/",
+      "trade_url": "https://safetrade.com/exchange/CPAY-USDT?type=basic",
+      "listing_date": "2026-01-20",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/42824488529549-Cryptix-Network-CPAY-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "GNK",
+      "name": "Gonka",
+      "website": "https://gonka.ai/",
+      "trade_url": "https://safetrade.com/exchange/GNK-USDT?type=basic",
+      "listing_date": "2025-12-11",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/41868303165965-Gonka-GNK-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "KRGN",
+      "name": "Kerrigan",
+      "website": "https://kerrigan.network/",
+      "trade_url": "https://safetrade.com/exchange/KRGN-USDT?type=basic",
+      "listing_date": "2026-04-11",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/45010949293325-Kerrigan-KRGN-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "LAX",
+      "name": "Parallax",
+      "website": "https://parallaxchain.org/",
+      "trade_url": "https://safetrade.com/exchange/LAX-USDT",
+      "listing_date": "2025-11-11",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/41047486962829-Parallax-LAX-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "LDG",
+      "name": "LiteDAG",
+      "website": "https://litedag.com/",
+      "trade_url": "https://safetrade.com/exchange/LDG-USDT?type=basic",
+      "listing_date": "2026-04-09",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/44980438926477-LiteDAG-LDG-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "NOCK",
+      "name": "Nockchain",
+      "website": "https://www.nockchain.org/",
+      "trade_url": "https://safetrade.com/exchange/NOCK-USDT",
+      "listing_date": "2025-05-27",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/36932305411469-Nockchain-NOCK-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "PRL",
+      "name": "Pearl",
+      "website": "https://pearlresearch.ai/",
+      "trade_url": "https://safetrade.com/exchange/PRL-USDT?type=basic",
+      "listing_date": "2026-05-20",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/46016657484173-Pearl-PRL-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "QTC",
+      "name": "Qubitcoin",
+      "website": "https://superquantum.io/qubitcoin",
+      "trade_url": "https://safetrade.com/exchange/QTC-USDT?type=basic",
+      "listing_date": "2025-07-14",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/38058100581645-Qubitcoin-QTC-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "SNAP",
+      "name": "Snap Coin",
+      "website": "https://snap-coin.net/",
+      "trade_url": "https://safetrade.com/exchange/SNAP-USDT?type=basic",
+      "listing_date": "2026-02-04",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/43251064549389-Snap-Coin-SNAP-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "VE",
+      "name": "Vecno",
+      "website": "https://vecnofoundation.org/",
+      "trade_url": "https://safetrade.com/exchange/VE-USDT?type=basic",
+      "listing_date": "2026-01-20",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/42824407441421-Vecno-VE-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "VRL",
+      "name": "Virel",
+      "website": "https://virel.org/",
+      "trade_url": "https://safetrade.com/exchange/VRL-USDT?type=basic",
+      "listing_date": "2025-08-21",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/38984229742221-Virel-VRL-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "XNT",
+      "name": "Neptune",
+      "website": "https://neptune.io/",
+      "trade_url": "https://safetrade.com/exchange/XNT-USDT?type=basic",
+      "listing_date": "2025-12-11",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/41868425629965-Neptune-XNT-has-been-listed-on-SafeTrade"
+    },
+    {
+      "source": "safetrade",
+      "ticker": "XTM",
+      "name": "The Tari Project",
+      "website": "",
+      "trade_url": "https://safetrade.com/exchange/XTM-USDT",
+      "listing_date": "2025-05-15",
+      "article_url": "https://support.safetrade.com/hc/en-us/articles/36641909547661-The-Tari-Project-XTM-has-been-listed-on-SafeTrade"
+    }
+  ],
+  "nonkyc": [
+    {
+      "source": "nonkyc",
+      "ticker": "0G",
+      "name": "0G",
+      "website": "https://www.0gfoundation.ai/",
+      "trade_url": "https://nonkyc.io/market/0G_USDT",
+      "listing_date": "2026-02-13",
+      "article_url": "https://nonkyc.io/post/new_listing_0g_0g"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "BCH2",
+      "name": "Bitcoin Cash II",
+      "website": "https://bch2.org/",
+      "trade_url": "https://nonkyc.io/market/BCH2_USDT",
+      "listing_date": "2026-03-22",
+      "article_url": "https://nonkyc.io/post/new_listing_bitcoincashii_bch2"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "BSB",
+      "name": "Block Street",
+      "website": "https://blockstreet.money/",
+      "trade_url": "https://nonkyc.io/market/BSB_USDT",
+      "listing_date": "2026-03-05",
+      "article_url": "https://nonkyc.io/post/new_listing_blockstreet_bsb"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "CAP",
+      "name": "CapStash",
+      "website": "https://capstash.org",
+      "trade_url": "https://nonkyc.io/market/CAP_USDT",
+      "listing_date": "2026-04-21",
+      "article_url": "https://nonkyc.io/post/new_listing_capstash_cap"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "DYDX",
+      "name": "dYdX",
+      "website": "https://www.dydx.foundation/",
+      "trade_url": "https://nonkyc.io/market/DYDX_USDT",
+      "listing_date": "2026-02-13",
+      "article_url": "https://nonkyc.io/post/new_listing_dydx_dydx"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "FF",
+      "name": "Falcon Finance",
+      "website": "https://falcon.finance/",
+      "trade_url": "https://nonkyc.io/market/FF_USDT",
+      "listing_date": "2026-02-10",
+      "article_url": "https://nonkyc.io/post/new_listing_falconfinance_ff"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "KRGN",
+      "name": "Kerrigan",
+      "website": "https://kerrigan.network",
+      "trade_url": "https://nonkyc.io/market/KRGN_USDT",
+      "listing_date": "2026-05-06",
+      "article_url": "https://nonkyc.io/post/new_listing_kerrigan_krgn"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "KRX",
+      "name": "Keryx",
+      "website": "https://keryx-labs.com/",
+      "trade_url": "https://nonkyc.io/market/KRX_USDT",
+      "listing_date": "2026-06-03",
+      "article_url": "https://nonkyc.io/post/new_listing_keryx_krx"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "LPEPE",
+      "name": "LuckyPepe",
+      "website": "https://luckypepe.org/",
+      "trade_url": "https://nonkyc.io/market/LPEPE_USDT",
+      "listing_date": "2026-03-09",
+      "article_url": "https://nonkyc.io/post/new_listing_luckypepe_lpepe"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "MANA",
+      "name": "Decentraland",
+      "website": "https://decentraland.org/",
+      "trade_url": "https://nonkyc.io/market/MANA_USDT",
+      "listing_date": "2026-02-10",
+      "article_url": "https://nonkyc.io/post/new_listing_decentraland_mana"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "NIGHT",
+      "name": "Midnight",
+      "website": "https://docs.midnight.network/",
+      "trade_url": "https://nonkyc.io/market/NIGHT_USDT",
+      "listing_date": "2026-02-17",
+      "article_url": "https://nonkyc.io/post/new_listing_midnight_night"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "OGG",
+      "name": "Oggcoin",
+      "website": "https://oggcoin.org",
+      "trade_url": "https://nonkyc.io/market/OGG_USDT",
+      "listing_date": "2026-06-04",
+      "article_url": "https://nonkyc.io/post/new_listing_oggcoin_ogg"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "OPN",
+      "name": "Opinion",
+      "website": "https://app.opinion.trade/",
+      "trade_url": "https://nonkyc.io/market/OPN_USDT",
+      "listing_date": "2026-03-06",
+      "article_url": "https://nonkyc.io/post/new_listing_opinion_opn"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "WJK",
+      "name": "WojakCoin",
+      "website": "https://wojakcoin.cash",
+      "trade_url": "https://nonkyc.io/market/WJK_USDT",
+      "listing_date": "2026-06-03",
+      "article_url": "https://nonkyc.io/post/new_listing_wojakcoin_wjk"
+    },
+    {
+      "source": "nonkyc",
+      "ticker": "XEQM",
+      "name": "XEQM Labs",
+      "website": "https://xeqmlabs.com",
+      "trade_url": "https://nonkyc.io/market/XEQM_USDT",
+      "listing_date": "2026-05-13",
+      "article_url": "https://nonkyc.io/post/new_listing_xeqmlabs_xeqm"
+    }
+  ],
+  "_meta": {
+    "generated_at": "2026-06-05T23:02:35.285672+00:00",
+    "safetrade_count": 14,
+    "nonkyc_count": 15
+  }
+}
