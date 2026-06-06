@@ -2795,6 +2795,29 @@
     "language": "QML",
     "topics": []
   },
+  "b3chain/b3chain": {
+    "full_name": "b3chain/b3chain",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "pushed_at": "2026-06-05T16:40:53Z",
+    "archived": false,
+    "description": "B3Chain Core - double BLAKE3-256 PoW Layer 1",
+    "language": "C++",
+    "topics": []
+  },
+  "b3c区块链、github.com/b3chain": {
+    "full_name": "b3c区块链、github.com/b3chain",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "bobburgersmeme/bobmemecoin": {
     "full_name": "BobBurgersMeme/BobMemeCoin",
     "stars": 0,
@@ -2848,6 +2871,41 @@
     "pushed_at": "",
     "archived": false,
     "description": "",
+    "language": "",
+    "topics": []
+  },
+  "janoside/btc-r": {
+    "full_name": "janoside/btc-r",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "jay534/pyrova": {
+    "full_name": "jay534/pyrova",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "jay534/pyrovacoin": {
+    "full_name": "jay534/pyrovacoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-05-16T05:55:38Z",
+    "archived": false,
+    "description": "PyrovaCoin (PYR) - Decentralized Cryptocurrency | SHA-256 | 21M Supply | Open Source",
     "language": "",
     "topics": []
   },
