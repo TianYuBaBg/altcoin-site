@@ -60,28 +60,6 @@
     "language": "C",
     "topics": []
   },
-  "aeonix/aeon": {
-    "full_name": "aeonix/aeon",
-    "stars": 60,
-    "forks": 46,
-    "open_issues": 27,
-    "pushed_at": "2023-01-17T13:47:37Z",
-    "archived": false,
-    "description": "AEON source code (post May 2018 rebase)",
-    "language": "C++",
-    "topics": []
-  },
-  "aeonix/aeon-gui": {
-    "full_name": "aeonix/aeon-gui",
-    "stars": 14,
-    "forks": 10,
-    "open_issues": 16,
-    "pushed_at": "2023-01-17T13:54:14Z",
-    "archived": false,
-    "description": "AEON GUI",
-    "language": "QML",
-    "topics": []
-  },
   "ahuman-exfer/exfer": {
     "full_name": "ahuman-exfer/exfer",
     "stars": 14,
@@ -348,17 +326,6 @@
     "language": "",
     "topics": []
   },
-  "bobburgersmeme/bobmemecoin": {
-    "full_name": "BobBurgersMeme/BobMemeCoin",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2026-04-27T19:57:53Z",
-    "archived": false,
-    "description": "BobMemeCoin meme coin fan project.",
-    "language": "C++",
-    "topics": []
-  },
   "bonero-project/bonero": {
     "full_name": "bonero-project/bonero",
     "error": true,
@@ -414,17 +381,6 @@
     "archived": false,
     "description": "Main release & integration tree for Cascoin (CAS)",
     "language": "C++",
-    "topics": []
-  },
-  "ccog-a-robot/cognition-node": {
-    "full_name": "CCOG-A-Robot/cognition-node",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2026-05-31T18:38:23Z",
-    "archived": false,
-    "description": "",
-    "language": "Python",
     "topics": []
   },
   "cheapocoin/cheapo": {
@@ -703,17 +659,6 @@
     "language": "",
     "topics": []
   },
-  "emarkproject/dem": {
-    "full_name": "emarkproject/eMark",
-    "stars": 29,
-    "forks": 37,
-    "open_issues": 24,
-    "pushed_at": "2023-09-11T10:12:53Z",
-    "archived": false,
-    "description": "",
-    "language": "C++",
-    "topics": []
-  },
   "enchantedforestdefi/ratatoskr": {
     "full_name": "EnchantedForestDeFi/ratatoskr",
     "stars": 0,
@@ -951,17 +896,6 @@
     "language": "Rust",
     "topics": []
   },
-  "gideonlouw/xyqon": {
-    "full_name": "gideonlouw/xyqon",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2026-06-06T10:37:55Z",
-    "archived": false,
-    "description": "XYQON",
-    "language": "Rust",
-    "topics": []
-  },
   "gjhiggins/slimcoin": {
     "full_name": "gjhiggins/slimcoin",
     "error": true,
@@ -1093,18 +1027,6 @@
   },
   "havenhvn/havencore": {
     "full_name": "havenhvn/havencore",
-    "error": true,
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "",
-    "archived": false,
-    "description": "",
-    "language": "",
-    "topics": []
-  },
-  "hexxcointakeover/hexxcoin": {
-    "full_name": "hexxcointakeover/hexxcoin",
     "error": true,
     "stars": 0,
     "forks": 0,
@@ -1478,17 +1400,6 @@
       "yespower"
     ]
   },
-  "littleduke/2give": {
-    "full_name": "LittleDuke/2GIVE",
-    "stars": 11,
-    "forks": 8,
-    "open_issues": 14,
-    "pushed_at": "2017-12-04T13:10:17Z",
-    "archived": false,
-    "description": "GiveCoin 2.0",
-    "language": "C++",
-    "topics": []
-  },
   "livinglitecoin/doge2": {
     "full_name": "LivingLitecoin/Doge2",
     "stars": 2,
@@ -1541,28 +1452,6 @@
     "archived": false,
     "description": "",
     "language": "CSS",
-    "topics": []
-  },
-  "marscoin/marscoin": {
-    "full_name": "marscoin/marscoin",
-    "stars": 7,
-    "forks": 4,
-    "open_issues": 6,
-    "pushed_at": "2026-04-28T03:20:31Z",
-    "archived": false,
-    "description": "marscoin 28.x",
-    "language": "C++",
-    "topics": []
-  },
-  "mauriciospagnol/cloudservice": {
-    "full_name": "MauricioSpagnol/cloudservice",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2026-05-19T00:41:10Z",
-    "archived": false,
-    "description": "",
-    "language": "C++",
     "topics": []
   },
   "medusammc/blockchain": {
@@ -1644,17 +1533,6 @@
       "cryptonote",
       "forknote"
     ]
-  },
-  "mrminer-org/theminerzcoin": {
-    "full_name": "MrMiner-org/TheMinerzCoin",
-    "stars": 2,
-    "forks": 5,
-    "open_issues": 0,
-    "pushed_at": "2025-07-19T07:08:14Z",
-    "archived": false,
-    "description": "https://theminerzcoin.eu/",
-    "language": "C++",
-    "topics": []
   },
   "mrvistos/bitcoinsilver": {
     "full_name": "bitcoin-silver/core",
@@ -1819,28 +1697,6 @@
     "language": "C++",
     "topics": []
   },
-  "nova-coin/novacoin": {
-    "full_name": "nova-coin/novacoin",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2025-02-25T16:32:20Z",
-    "archived": false,
-    "description": "Novacoin sources tree",
-    "language": "C++",
-    "topics": []
-  },
-  "novacoin-project/novacoin": {
-    "full_name": "novacoin-project/novacoin",
-    "stars": 117,
-    "forks": 506,
-    "open_issues": 12,
-    "pushed_at": "2025-09-21T08:53:19Z",
-    "archived": false,
-    "description": "Novacoin sources tree",
-    "language": "C++",
-    "topics": []
-  },
   "nuvexfounder/nuvex": {
     "full_name": "nuvexfounder/nuvex",
     "stars": 1,
@@ -1850,17 +1706,6 @@
     "archived": false,
     "description": "Next Generation Layer-1 Blockchain — Fair Launch — No ICO",
     "language": "Go",
-    "topics": []
-  },
-  "ocminer/node-multi-hashing-xzc": {
-    "full_name": "ocminer/node-multi-hashing-xzc",
-    "stars": 6,
-    "forks": 28,
-    "open_issues": 2,
-    "pushed_at": "2017-02-09T12:24:07Z",
-    "archived": false,
-    "description": "nomp multi-hashing module for use with xzc (zcoin)",
-    "language": "C",
     "topics": []
   },
   "octcoins/octcoin": {
@@ -1874,17 +1719,6 @@
     "language": "C++",
     "topics": []
   },
-  "officialworldcoinglobal/worldcoin": {
-    "full_name": "OfficialWorldcoinGlobal/Worldcoin",
-    "stars": 68,
-    "forks": 27,
-    "open_issues": 3,
-    "pushed_at": "2024-01-02T05:56:47Z",
-    "archived": false,
-    "description": "",
-    "language": "C++",
-    "topics": []
-  },
   "ogvanetwork/ogva-core": {
     "full_name": "ogvanetwork/ogva-core",
     "stars": 2,
@@ -1894,28 +1728,6 @@
     "archived": false,
     "description": "Ogva Network Blockchain currency for community governance, cooperation, and growth https://explorer.ogva.net ",
     "language": "C++",
-    "topics": []
-  },
-  "omegablockchain/omegacoin": {
-    "full_name": "OmegaBlockchain/omegacoin",
-    "stars": 6,
-    "forks": 6,
-    "open_issues": 1,
-    "pushed_at": "2026-05-15T14:42:49Z",
-    "archived": false,
-    "description": "",
-    "language": "C++",
-    "topics": []
-  },
-  "omegablockchain/trollbox": {
-    "full_name": "OmegaBlockchain/trollbox",
-    "stars": 0,
-    "forks": 2,
-    "open_issues": 0,
-    "pushed_at": "2023-03-07T21:41:55Z",
-    "archived": false,
-    "description": "Omega Anonymous TrollBox",
-    "language": "",
     "topics": []
   },
   "ominirex/ominira-server": {
@@ -2303,38 +2115,6 @@
     "language": "C",
     "topics": []
   },
-  "rockyomvi/viri": {
-    "full_name": "RockyOmvi/Viri",
-    "stars": 3,
-    "forks": 1,
-    "open_issues": 13,
-    "pushed_at": "2026-05-29T12:30:54Z",
-    "archived": false,
-    "description": "Production-grade 3-layer modular L1 blockchain in Go. HotStuff-2 BFT formally verified with TLA+ (34M+ states, Byzantine model). Native AA, dual EVM+WASM, ZK privacy, MEV resistance. BSL 1.1.",
-    "language": "Go",
-    "topics": [
-      "account-abstraction",
-      "bft-consensus",
-      "blockchain",
-      "byzantine-fault-tolerance",
-      "consensus",
-      "distributed-systems",
-      "evm",
-      "formal-verification",
-      "golang",
-      "hotstuff",
-      "layer1",
-      "libp2p",
-      "mev-resistance",
-      "modular-blockchain",
-      "p2p",
-      "tla-plus",
-      "wasm",
-      "web3",
-      "zero-knowledge",
-      "zk-proofs"
-    ]
-  },
   "rumor-rmr/rumor": {
     "full_name": "Rumor-RMR/Rumor",
     "stars": 0,
@@ -2464,17 +2244,6 @@
     "pushed_at": "2026-03-09T16:05:22Z",
     "archived": false,
     "description": "specialcoinscore@protonmail.ch      https://twitter.com/officialBZX",
-    "language": "C++",
-    "topics": []
-  },
-  "spekske/fckbankscoin": {
-    "full_name": "Spekske/fckbankscoin",
-    "stars": 2,
-    "forks": 2,
-    "open_issues": 0,
-    "pushed_at": "2017-09-12T12:18:07Z",
-    "archived": false,
-    "description": "",
     "language": "C++",
     "topics": []
   },
@@ -2785,17 +2554,6 @@
       "whitepaper"
     ]
   },
-  "vashshawn/ldoge": {
-    "full_name": "vashshawn/ldoge",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2024-03-22T09:51:13Z",
-    "archived": false,
-    "description": "LITEDOGE rebased over peercoin/peercoin@0.13-release",
-    "language": "C",
-    "topics": []
-  },
   "vecno-foundation/vecno-miner": {
     "full_name": "Vecno-Foundation/vecno-miner",
     "stars": 4,
@@ -2882,26 +2640,6 @@
     "description": "",
     "language": "",
     "topics": []
-  },
-  "vorliq/vorliq": {
-    "full_name": "vorliq/Vorliq",
-    "stars": 5,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "2026-06-05T21:44:31Z",
-    "archived": false,
-    "description": "Community savings platform built on a custom Python blockchain with VLQ coin. No external networks.",
-    "language": "JavaScript",
-    "topics": [
-      "blockchain",
-      "community",
-      "cryptocurrency",
-      "defi",
-      "python",
-      "react",
-      "vlq",
-      "vorliq"
-    ]
   },
   "vulkanchain/vulkan": {
     "full_name": "vulkanchain/vulkan",
@@ -3024,6 +2762,279 @@
     "language": "JavaScript",
     "topics": []
   },
+  "zetherorg/docs": {
+    "full_name": "ZetherOrg/docs",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 1,
+    "pushed_at": "2024-11-04T13:23:33Z",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "aeonix/aeon": {
+    "full_name": "aeonix/aeon",
+    "stars": 60,
+    "forks": 46,
+    "open_issues": 27,
+    "pushed_at": "2023-01-17T13:47:37Z",
+    "archived": false,
+    "description": "AEON source code (post May 2018 rebase)",
+    "language": "C++",
+    "topics": []
+  },
+  "aeonix/aeon-gui": {
+    "full_name": "aeonix/aeon-gui",
+    "stars": 14,
+    "forks": 10,
+    "open_issues": 16,
+    "pushed_at": "2023-01-17T13:54:14Z",
+    "archived": false,
+    "description": "AEON GUI",
+    "language": "QML",
+    "topics": []
+  },
+  "bobburgersmeme/bobmemecoin": {
+    "full_name": "BobBurgersMeme/BobMemeCoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-04-27T19:57:53Z",
+    "archived": false,
+    "description": "BobMemeCoin meme coin fan project.",
+    "language": "C++",
+    "topics": []
+  },
+  "ccog-a-robot/cognition-node": {
+    "full_name": "CCOG-A-Robot/cognition-node",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-05-31T18:38:23Z",
+    "archived": false,
+    "description": "",
+    "language": "Python",
+    "topics": []
+  },
+  "emarkproject/dem": {
+    "full_name": "emarkproject/eMark",
+    "stars": 29,
+    "forks": 37,
+    "open_issues": 24,
+    "pushed_at": "2023-09-11T10:12:53Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
+  "gideonlouw/xyqon": {
+    "full_name": "gideonlouw/xyqon",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-06T10:37:55Z",
+    "archived": false,
+    "description": "XYQON",
+    "language": "Rust",
+    "topics": []
+  },
+  "hexxcointakeover/hexxcoin": {
+    "full_name": "hexxcointakeover/hexxcoin",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "littleduke/2give": {
+    "full_name": "LittleDuke/2GIVE",
+    "stars": 11,
+    "forks": 8,
+    "open_issues": 14,
+    "pushed_at": "2017-12-04T13:10:17Z",
+    "archived": false,
+    "description": "GiveCoin 2.0",
+    "language": "C++",
+    "topics": []
+  },
+  "marscoin/marscoin": {
+    "full_name": "marscoin/marscoin",
+    "stars": 7,
+    "forks": 4,
+    "open_issues": 6,
+    "pushed_at": "2026-04-28T03:20:31Z",
+    "archived": false,
+    "description": "marscoin 28.x",
+    "language": "C++",
+    "topics": []
+  },
+  "mauriciospagnol/cloudservice": {
+    "full_name": "MauricioSpagnol/cloudservice",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-05-19T00:41:10Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
+  "mrminer-org/theminerzcoin": {
+    "full_name": "MrMiner-org/TheMinerzCoin",
+    "stars": 2,
+    "forks": 5,
+    "open_issues": 0,
+    "pushed_at": "2025-07-19T07:08:14Z",
+    "archived": false,
+    "description": "https://theminerzcoin.eu/",
+    "language": "C++",
+    "topics": []
+  },
+  "nova-coin/novacoin": {
+    "full_name": "nova-coin/novacoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2025-02-25T16:32:20Z",
+    "archived": false,
+    "description": "Novacoin sources tree",
+    "language": "C++",
+    "topics": []
+  },
+  "novacoin-project/novacoin": {
+    "full_name": "novacoin-project/novacoin",
+    "stars": 117,
+    "forks": 506,
+    "open_issues": 12,
+    "pushed_at": "2025-09-21T08:53:19Z",
+    "archived": false,
+    "description": "Novacoin sources tree",
+    "language": "C++",
+    "topics": []
+  },
+  "ocminer/node-multi-hashing-xzc": {
+    "full_name": "ocminer/node-multi-hashing-xzc",
+    "stars": 6,
+    "forks": 28,
+    "open_issues": 2,
+    "pushed_at": "2017-02-09T12:24:07Z",
+    "archived": false,
+    "description": "nomp multi-hashing module for use with xzc (zcoin)",
+    "language": "C",
+    "topics": []
+  },
+  "officialworldcoinglobal/worldcoin": {
+    "full_name": "OfficialWorldcoinGlobal/Worldcoin",
+    "stars": 68,
+    "forks": 27,
+    "open_issues": 3,
+    "pushed_at": "2024-01-02T05:56:47Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
+  "omegablockchain/omegacoin": {
+    "full_name": "OmegaBlockchain/omegacoin",
+    "stars": 6,
+    "forks": 6,
+    "open_issues": 1,
+    "pushed_at": "2026-05-15T14:42:49Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
+  "omegablockchain/trollbox": {
+    "full_name": "OmegaBlockchain/trollbox",
+    "stars": 0,
+    "forks": 2,
+    "open_issues": 0,
+    "pushed_at": "2023-03-07T21:41:55Z",
+    "archived": false,
+    "description": "Omega Anonymous TrollBox",
+    "language": "",
+    "topics": []
+  },
+  "rockyomvi/viri": {
+    "full_name": "RockyOmvi/Viri",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 13,
+    "pushed_at": "2026-05-29T12:30:54Z",
+    "archived": false,
+    "description": "Production-grade 3-layer modular L1 blockchain in Go. HotStuff-2 BFT formally verified with TLA+ (34M+ states, Byzantine model). Native AA, dual EVM+WASM, ZK privacy, MEV resistance. BSL 1.1.",
+    "language": "Go",
+    "topics": [
+      "account-abstraction",
+      "bft-consensus",
+      "blockchain",
+      "byzantine-fault-tolerance",
+      "consensus",
+      "distributed-systems",
+      "evm",
+      "formal-verification",
+      "golang",
+      "hotstuff",
+      "layer1",
+      "libp2p",
+      "mev-resistance",
+      "modular-blockchain",
+      "p2p",
+      "tla-plus",
+      "wasm",
+      "web3",
+      "zero-knowledge",
+      "zk-proofs"
+    ]
+  },
+  "spekske/fckbankscoin": {
+    "full_name": "Spekske/fckbankscoin",
+    "stars": 2,
+    "forks": 2,
+    "open_issues": 0,
+    "pushed_at": "2017-09-12T12:18:07Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
+  "vashshawn/ldoge": {
+    "full_name": "vashshawn/ldoge",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2024-03-22T09:51:13Z",
+    "archived": false,
+    "description": "LITEDOGE rebased over peercoin/peercoin@0.13-release",
+    "language": "C",
+    "topics": []
+  },
+  "vorliq/vorliq": {
+    "full_name": "vorliq/Vorliq",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-05T21:44:31Z",
+    "archived": false,
+    "description": "Community savings platform built on a custom Python blockchain with VLQ coin. No external networks.",
+    "language": "JavaScript",
+    "topics": [
+      "blockchain",
+      "community",
+      "cryptocurrency",
+      "defi",
+      "python",
+      "react",
+      "vlq",
+      "vorliq"
+    ]
+  },
   "zerocoin/libzerocoin": {
     "full_name": "Zerocoin/libzerocoin",
     "stars": 175,
@@ -3044,17 +3055,6 @@
     "archived": false,
     "description": "Official Zetacoin repository",
     "language": "C++",
-    "topics": []
-  },
-  "zetherorg/docs": {
-    "full_name": "ZetherOrg/docs",
-    "stars": 0,
-    "forks": 1,
-    "open_issues": 1,
-    "pushed_at": "2024-11-04T13:23:33Z",
-    "archived": false,
-    "description": "",
-    "language": "",
     "topics": []
   },
   "zocteam/zeroonecoin": {
