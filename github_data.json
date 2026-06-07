@@ -3336,5 +3336,38 @@
     "description": "",
     "language": "",
     "topics": []
+  },
+  "damo333/damocoin": {
+    "full_name": "damo333/damocoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-05-26T11:59:52Z",
+    "archived": false,
+    "description": "",
+    "language": "HTML",
+    "topics": []
+  },
+  "goodgrek/mai_presale_native": {
+    "full_name": "Goodgrek/mai_presale_native",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-04-12T09:51:08Z",
+    "archived": false,
+    "description": "",
+    "language": "Rust",
+    "topics": []
+  },
+  "interchained/interchained": {
+    "full_name": "interchained/interchained",
+    "stars": 2,
+    "forks": 4,
+    "open_issues": 0,
+    "pushed_at": "2026-05-25T14:48:17Z",
+    "archived": false,
+    "description": "Interchained (ITC) — A next-gen Bitcoin fork: fair-launch, no premine, genesis unspent. Powered by CPU-friendly Yespower PoW + DGW-Nova 3 difficulty, with ITSL token subsystem natively in consensus. B",
+    "language": "C++",
+    "topics": []
   }
 }
