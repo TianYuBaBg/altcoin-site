@@ -2806,18 +2806,6 @@
     "language": "C++",
     "topics": []
   },
-  "b3c区块链、github.com/b3chain": {
-    "full_name": "b3c区块链、github.com/b3chain",
-    "error": true,
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "",
-    "archived": false,
-    "description": "",
-    "language": "",
-    "topics": []
-  },
   "bobburgersmeme/bobmemecoin": {
     "full_name": "BobBurgersMeme/BobMemeCoin",
     "stars": 0,
@@ -2838,6 +2826,17 @@
     "archived": false,
     "description": "",
     "language": "Python",
+    "topics": []
+  },
+  "defcon-project/defcon": {
+    "full_name": "defcon-project/defcon",
+    "stars": 0,
+    "forks": 3,
+    "open_issues": 3,
+    "pushed_at": "2026-05-23T21:21:32Z",
+    "archived": false,
+    "description": "DeFCoN Core",
+    "language": "C++",
     "topics": []
   },
   "emarkproject/dem": {
@@ -2864,30 +2863,6 @@
   },
   "hexxcointakeover/hexxcoin": {
     "full_name": "hexxcointakeover/hexxcoin",
-    "error": true,
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "",
-    "archived": false,
-    "description": "",
-    "language": "",
-    "topics": []
-  },
-  "janoside/btc-r": {
-    "full_name": "janoside/btc-r",
-    "error": true,
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "",
-    "archived": false,
-    "description": "",
-    "language": "",
-    "topics": []
-  },
-  "jay534/pyrova": {
-    "full_name": "jay534/pyrova",
     "error": true,
     "stars": 0,
     "forks": 0,
