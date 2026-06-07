@@ -3313,5 +3313,28 @@
     "description": "",
     "language": "C++",
     "topics": []
+  },
+  "qorechain/qorechain-core": {
+    "full_name": "qorechain/qorechain-core",
+    "stars": 26,
+    "forks": 5,
+    "open_issues": 0,
+    "pushed_at": "2026-06-06T19:28:46Z",
+    "archived": false,
+    "description": "QoreChain — Quantum-Safe AI-Native Layer 1 Blockchain",
+    "language": "Go",
+    "topics": []
+  },
+  "qorechain/qorechain-core)": {
+    "full_name": "qorechain/qorechain-core)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
   }
 }
