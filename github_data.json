@@ -2818,8 +2818,77 @@
     "language": "",
     "topics": []
   },
+  "bighurt23/hydrax-miner": {
+    "full_name": "bighurt23/hydrax-miner",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-04T23:33:55Z",
+    "archived": false,
+    "description": "hydrax-miner",
+    "language": "",
+    "topics": []
+  },
+  "bighurt23/hydrax-miner)": {
+    "full_name": "bighurt23/hydrax-miner)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "bitcoinbtgs/bitcoingold)": {
     "full_name": "bitcoinbtgs/bitcoingold)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "bitcoinbtuser/bitcoinbt-source": {
+    "full_name": "bitcoinbtuser/bitcoinbt-source",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-01T00:00:08Z",
+    "archived": false,
+    "description": "BTCBT full source code - Bitcoin hard fork",
+    "language": "C++",
+    "topics": []
+  },
+  "bitcoinbtuser/bitcoinbt-source)": {
+    "full_name": "bitcoinbtuser/bitcoinbt-source)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "bitcoinx-project/bitcoinx": {
+    "full_name": "bitcoinx-project/bitcoinx",
+    "stars": 104,
+    "forks": 59,
+    "open_issues": 5,
+    "pushed_at": "2019-01-28T09:02:36Z",
+    "archived": false,
+    "description": "bcx",
+    "language": "C++",
+    "topics": []
+  },
+  "bitcoinx-project/bitcoinx)": {
+    "full_name": "bitcoinx-project/bitcoinx)",
     "error": true,
     "stars": 0,
     "forks": 0,
@@ -3199,18 +3268,6 @@
       "vlq",
       "vorliq"
     ]
-  },
-  "vorliq/vorliq)": {
-    "full_name": "vorliq/vorliq)",
-    "error": true,
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "pushed_at": "",
-    "archived": false,
-    "description": "",
-    "language": "",
-    "topics": []
   },
   "vorliq/vorliq（javascript，5": {
     "full_name": "vorliq/vorliq（javascript，5",
