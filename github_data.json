@@ -2806,6 +2806,18 @@
     "language": "C++",
     "topics": []
   },
+  "bitcoinbtgs/bitcoingold)": {
+    "full_name": "bitcoinbtgs/bitcoingold)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "bobburgersmeme/bobmemecoin": {
     "full_name": "BobBurgersMeme/BobMemeCoin",
     "stars": 0,
@@ -2815,6 +2827,18 @@
     "archived": false,
     "description": "BobMemeCoin meme coin fan project.",
     "language": "C++",
+    "topics": []
+  },
+  "bobburgersmeme/bobmemecoin)": {
+    "full_name": "bobburgersmeme/bobmemecoin)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
     "topics": []
   },
   "ccog-a-robot/cognition-node": {
@@ -2828,6 +2852,18 @@
     "language": "Python",
     "topics": []
   },
+  "ccog-a-robot/cognition-node)": {
+    "full_name": "ccog-a-robot/cognition-node)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "defcon-project/defcon": {
     "full_name": "defcon-project/defcon",
     "stars": 0,
@@ -2839,6 +2875,18 @@
     "language": "C++",
     "topics": []
   },
+  "detnonzero/qado)": {
+    "full_name": "detnonzero/qado)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "emarkproject/dem": {
     "full_name": "emarkproject/eMark",
     "stars": 29,
@@ -2848,6 +2896,18 @@
     "archived": false,
     "description": "",
     "language": "C++",
+    "topics": []
+  },
+  "fjarcode/fjarcode-core)": {
+    "full_name": "fjarcode/fjarcode-core)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
     "topics": []
   },
   "gideonlouw/xyqon": {
@@ -2873,6 +2933,30 @@
     "language": "",
     "topics": []
   },
+  "hypercoin-prj/hypercoin)": {
+    "full_name": "hypercoin-prj/hypercoin)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "jamesb922/q-bitx)": {
+    "full_name": "jamesb922/q-bitx)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "jay534/pyrovacoin": {
     "full_name": "jay534/pyrovacoin",
     "stars": 0,
@@ -2881,6 +2965,18 @@
     "pushed_at": "2026-05-16T05:55:38Z",
     "archived": false,
     "description": "PyrovaCoin (PYR) - Decentralized Cryptocurrency | SHA-256 | 21M Supply | Open Source",
+    "language": "",
+    "topics": []
+  },
+  "jay534/pyrovacoin)": {
+    "full_name": "jay534/pyrovacoin)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
     "language": "",
     "topics": []
   },
@@ -2991,6 +3087,18 @@
     "pushed_at": "2023-03-07T21:41:55Z",
     "archived": false,
     "description": "Omega Anonymous TrollBox",
+    "language": "",
+    "topics": []
+  },
+  "otcoinfoundation/otcoin)": {
+    "full_name": "otcoinfoundation/otcoin)",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
     "language": "",
     "topics": []
   },
