@@ -3369,5 +3369,16 @@
     "description": "Interchained (ITC) — A next-gen Bitcoin fork: fair-launch, no premine, genesis unspent. Powered by CPU-friendly Yespower PoW + DGW-Nova 3 difficulty, with ITSL token subsystem natively in consensus. B",
     "language": "C++",
     "topics": []
+  },
+  "kawven/kawven": {
+    "full_name": "Kawven/Kawven",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-06T12:26:23Z",
+    "archived": false,
+    "description": "Kawven",
+    "language": "",
+    "topics": []
   }
 }
