@@ -1,4 +1,15 @@
 {
+  "baldaprotocol/balda-protocol": {
+    "full_name": "BaldaProtocol/Balda-Protocol",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "pushed_at": "2026-04-22T08:31:46Z",
+    "archived": false,
+    "description": "Fully autonomous ERC-20 token on Ethereum. 91,000 BLD fixed supply. Ownerless, immutable, no admin keys.",
+    "language": "HTML",
+    "topics": []
+  },
   "damo333/damocoin": {
     "full_name": "damo333/damocoin",
     "stars": 0,
@@ -10,6 +21,17 @@
     "language": "HTML",
     "topics": []
   },
+  "equorumprotocol/equorum-revenue-bonds": {
+    "full_name": "EquorumProtocol/Equorum-Revenue-Bonds",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-03-16T13:49:50Z",
+    "archived": false,
+    "description": "Revenue Bonds Protocol - On-chain revenue sharing for DeFi protocols on Arbitrum",
+    "language": "JavaScript",
+    "topics": []
+  },
   "goodgrek/mai_presale_native": {
     "full_name": "Goodgrek/mai_presale_native",
     "stars": 0,
@@ -19,6 +41,60 @@
     "archived": false,
     "description": "",
     "language": "Rust",
+    "topics": []
+  },
+  "heliosfrontier/crypterra": {
+    "full_name": "heliosfrontier/crypterra",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "him-silvr/silvr": {
+    "full_name": "him-SILVR/SILVR",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "pushed_at": "2026-06-01T12:53:53Z",
+    "archived": false,
+    "description": "SILVR | Custom Layer-1 blockchain in C. SHA-256d PoW. No ICO. No fork. The People's Chain. Chain ID 2026.",
+    "language": "C",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "c",
+      "cryptocurrency",
+      "layer1",
+      "proof-of-work",
+      "sha256",
+      "silvr"
+    ]
+  },
+  "hostdec/browser": {
+    "full_name": "hostdec/browser",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-03-19T01:59:07Z",
+    "archived": false,
+    "description": "Web browser with support for decentralized domain resolution and integration with the traditional web.",
+    "language": "HTML",
+    "topics": []
+  },
+  "ifinta/zsozso-webpage": {
+    "full_name": "ifinta/zsozso-webpage",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-05-02T19:42:42Z",
+    "archived": false,
+    "description": "The homepage for Zsozso development",
+    "language": "HTML",
     "topics": []
   },
   "interchained/interchained": {
@@ -47,10 +123,32 @@
     "stars": 0,
     "forks": 1,
     "open_issues": 3,
-    "pushed_at": "2026-06-08T04:57:19Z",
+    "pushed_at": "2026-06-08T06:06:08Z",
     "archived": false,
     "description": "ConvergenceX PoW engine for SOST protocol",
     "language": "HTML",
+    "topics": []
+  },
+  "nuvexfounder/nuvex": {
+    "full_name": "nuvexfounder/nuvex",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-04-15T16:15:28Z",
+    "archived": false,
+    "description": "Next Generation Layer-1 Blockchain — Fair Launch — No ICO",
+    "language": "Go",
+    "topics": []
+  },
+  "ouziel-slama/zeldhash": {
+    "full_name": "zeldhash/zeldhash",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-02-01T14:39:12Z",
+    "archived": false,
+    "description": "Hunt for Bitcoin's Rarest Transactions",
+    "language": "",
     "topics": []
   },
   "pooler/cpuminer": {
@@ -75,6 +173,17 @@
     "language": "C",
     "topics": []
   },
+  "rizkimaryanto7-creator/chain-registry": {
+    "full_name": "rizkimaryanto7-creator/chain-registry",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 3,
+    "pushed_at": "2026-04-01T13:49:39Z",
+    "archived": false,
+    "description": "",
+    "language": "Python",
+    "topics": []
+  },
   "satoshilabs/slips": {
     "full_name": "satoshilabs/slips",
     "stars": 1677,
@@ -86,6 +195,81 @@
     "language": "Markdown",
     "topics": []
   },
+  "shorelinecrypto/cheetahdex-钱包-web": {
+    "full_name": "shorelinecrypto/cheetahdex-钱包-web",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
+  "shorelinecrypto/wrappedcheetahcoin": {
+    "full_name": "ShorelineCrypto/WrappedCheetahcoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2021-08-09T00:24:43Z",
+    "archived": false,
+    "description": "",
+    "language": "Solidity",
+    "topics": []
+  },
+  "shorelinecrypto/wrappednengcoin": {
+    "full_name": "ShorelineCrypto/WrappedNengcoin",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2021-08-08T22:34:34Z",
+    "archived": false,
+    "description": "",
+    "language": "Solidity",
+    "topics": []
+  },
+  "ultradagcom/core": {
+    "full_name": "UltraDAGcom/core",
+    "stars": 5,
+    "forks": 4,
+    "open_issues": 2,
+    "pushed_at": "2026-04-22T16:54:29Z",
+    "archived": false,
+    "description": "Minimal DAG-BFT blockchain in Rust. Sub-4 MB full-node binary, 2–3 round deterministic finality, passkey-native wallets, runs on a $15 Raspberry Pi Zero 2 W. Built for IoT and machine-to-machine micro",
+    "language": "Rust",
+    "topics": [
+      "bft",
+      "blockchain",
+      "byteball",
+      "consensus",
+      "cryptocurrency",
+      "dag",
+      "dag-bft",
+      "distributed-systems",
+      "embedded",
+      "iot",
+      "layer-1",
+      "micropayments",
+      "obyte",
+      "p2p",
+      "passkey",
+      "rust",
+      "webauthn"
+    ]
+  },
+  "v-sk/alice-protocol": {
+    "full_name": "v-sk/alice-protocol",
+    "error": true,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "",
+    "archived": false,
+    "description": "",
+    "language": "",
+    "topics": []
+  },
   "xeqmlabs/whitepaper": {
     "full_name": "XEQMLabs/whitepaper",
     "stars": 0,
@@ -95,6 +279,17 @@
     "archived": false,
     "description": "",
     "language": "",
+    "topics": []
+  },
+  "xerocoinx/xero": {
+    "full_name": "XeroCoinX/Xero",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 3,
+    "pushed_at": "2026-04-15T22:31:59Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
     "topics": []
   }
 }
