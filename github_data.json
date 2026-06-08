@@ -1,4 +1,15 @@
 {
+  "agouticoin/agouti": {
+    "full_name": "AgoutiCoin/agouti",
+    "stars": 0,
+    "forks": 2,
+    "open_issues": 0,
+    "pushed_at": "2026-06-07T09:26:27Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
   "baldaprotocol/balda-protocol": {
     "full_name": "BaldaProtocol/Balda-Protocol",
     "stars": 0,
@@ -9,6 +20,59 @@
     "description": "Fully autonomous ERC-20 token on Ethereum. 91,000 BLD fixed supply. Ownerless, immutable, no admin keys.",
     "language": "HTML",
     "topics": []
+  },
+  "bighurt23/hydrax-miner": {
+    "full_name": "bighurt23/hydrax-miner",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-04T23:33:55Z",
+    "archived": false,
+    "description": "hydrax-miner",
+    "language": "",
+    "topics": []
+  },
+  "bitcoinbtuser/bitcoinbt-source": {
+    "full_name": "bitcoinbtuser/bitcoinbt-source",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-01T00:00:08Z",
+    "archived": false,
+    "description": "BTCBT full source code - Bitcoin hard fork",
+    "language": "C++",
+    "topics": []
+  },
+  "boskacoin/boskacoin": {
+    "full_name": "boskacoin/boskacoin",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-07T12:09:41Z",
+    "archived": false,
+    "description": "The BoskaCoin Cryptocurrency",
+    "language": "C++",
+    "topics": []
+  },
+  "btgscoindev/btgs": {
+    "full_name": "BTGSCOINDEV/BTGS",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 0,
+    "pushed_at": "2026-06-02T14:04:20Z",
+    "archived": false,
+    "description": "BITCOIN GOLD \"BTGS\"",
+    "language": "C++",
+    "topics": [
+      "bitcoin",
+      "coin",
+      "cryptocurrency",
+      "layer1",
+      "layer1blockchain-automation",
+      "mining",
+      "sha-256",
+      "sha-256-encryption-algorithm"
+    ]
   },
   "damo333/damocoin": {
     "full_name": "damo333/damocoin",
@@ -21,6 +85,17 @@
     "language": "HTML",
     "topics": []
   },
+  "devcoffeecoin/picoin": {
+    "full_name": "devcoffeecoin/PICOIN",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-08T00:11:33Z",
+    "archived": false,
+    "description": "",
+    "language": "Python",
+    "topics": []
+  },
   "equorumprotocol/equorum-revenue-bonds": {
     "full_name": "EquorumProtocol/Equorum-Revenue-Bonds",
     "stars": 1,
@@ -30,6 +105,17 @@
     "archived": false,
     "description": "Revenue Bonds Protocol - On-chain revenue sharing for DeFi protocols on Arbitrum",
     "language": "JavaScript",
+    "topics": []
+  },
+  "ghostrider1092/coincync-testnet-": {
+    "full_name": "ghostrider1092/Coincync-Testnet-",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 15,
+    "pushed_at": "2026-06-06T20:00:51Z",
+    "archived": false,
+    "description": "Privacy-first PoW cryptocurrency · constitutionally locked · CYNC↔BTC atomic-swap mainnet blocker · CLSAG · RandomX CPU mining · MIT",
+    "language": "Rust",
     "topics": []
   },
   "goodgrek/mai_presale_native": {
@@ -118,6 +204,17 @@
       "itc"
     ]
   },
+  "myt-core/myt": {
+    "full_name": "MYT-Core/MYT",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 1,
+    "pushed_at": "2026-06-01T18:20:20Z",
+    "archived": false,
+    "description": "MYT core protocol (Monero-based fork)",
+    "language": "C++",
+    "topics": []
+  },
   "neob1844/sost-core": {
     "full_name": "Neob1844/sost-core",
     "stars": 0,
@@ -140,6 +237,17 @@
     "language": "Go",
     "topics": []
   },
+  "omegablockchain/omegacoin": {
+    "full_name": "OmegaBlockchain/omegacoin",
+    "stars": 6,
+    "forks": 6,
+    "open_issues": 1,
+    "pushed_at": "2026-05-15T14:42:49Z",
+    "archived": false,
+    "description": "",
+    "language": "C++",
+    "topics": []
+  },
   "ouziel-slama/zeldhash": {
     "full_name": "zeldhash/zeldhash",
     "stars": 2,
@@ -149,6 +257,39 @@
     "archived": false,
     "description": "Hunt for Bitcoin's Rarest Transactions",
     "language": "",
+    "topics": []
+  },
+  "pearl-research-labs/pearl": {
+    "full_name": "pearl-research-labs/pearl",
+    "stars": 205,
+    "forks": 40,
+    "open_issues": 54,
+    "pushed_at": "2026-06-07T12:07:02Z",
+    "archived": false,
+    "description": "Monorepo for the Pearl network 🐚",
+    "language": "Go",
+    "topics": []
+  },
+  "pinkstarrysky/bitcoiniii-core": {
+    "full_name": "PinkStarrySky/BitcoinIII-Core",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-07T20:00:28Z",
+    "archived": false,
+    "description": "BitcoinIII-Core node software for the BitcoinIII (BC3) blockchain. BC3 is identical to Bitcoin in every way, except that it uses SHA3-256t as its block hash algorithm.",
+    "language": "C++",
+    "topics": []
+  },
+  "poc-consortium/bitcoin-pocx": {
+    "full_name": "PoC-Consortium/bitcoin-pocx",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "pushed_at": "2026-06-01T11:55:09Z",
+    "archived": false,
+    "description": "Bitcoin Core with PoCX integration",
+    "language": "Shell",
     "topics": []
   },
   "pooler/cpuminer": {
