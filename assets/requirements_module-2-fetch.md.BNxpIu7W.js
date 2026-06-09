@@ -1,0 +1,28 @@
+import{_ as a,o as i,c as n,a2 as t}from"./chunks/framework.Drubq5y2.js";const k=JSON.parse('{"title":"模块 2 — 抓取（fetch_candidates.py）","description":"","frontmatter":{},"headers":[],"relativePath":"requirements/module-2-fetch.md","filePath":"requirements/module-2-fetch.md"}'),e={name:"requirements/module-2-fetch.md"};function l(p,s,h,d,o,c){return i(),n("div",null,[...s[0]||(s[0]=[t(`<h1 id="模块-2-—-抓取-fetch-candidates-py" tabindex="-1">模块 2 — 抓取（fetch_candidates.py） <a class="header-anchor" href="#模块-2-—-抓取-fetch-candidates-py" aria-label="Permalink to &quot;模块 2 — 抓取（fetch_candidates.py）&quot;">​</a></h1><h2 id="入口" tabindex="-1">入口 <a class="header-anchor" href="#入口" aria-label="Permalink to &quot;入口&quot;">​</a></h2><ul><li><code>--tid N</code>：单帖模式</li><li><code>--tid-list 1,2,3</code>：批量模式</li><li><code>auto_pipeline.py</code>：自动触发</li></ul><h2 id="流程" tabindex="-1">流程 <a class="header-anchor" href="#流程" aria-label="Permalink to &quot;流程&quot;">​</a></h2><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>1. fetch_with_fallback(url)</span></span>
+<span class="line"><span>   → requests.Session 直连</span></span>
+<span class="line"><span>   → Cloudflare 拦截时降级到 cloudscraper</span></span>
+<span class="line"><span>   → 保存原始 HTML 到 data/raw/topic_{tid}.html</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>2. 解析结构化数据</span></span>
+<span class="line"><span>   从 HTML 提取：</span></span>
+<span class="line"><span>   - 标题（&lt;title&gt; 标签）</span></span>
+<span class="line"><span>   - 发布者（poster_info 区域）</span></span>
+<span class="line"><span>   - 创建时间（&lt;div class=&quot;smalltext&quot;&gt; → 3 种日期格式兼容：</span></span>
+<span class="line"><span>     Today/Yesterday 实时计算、编辑帖 &lt;span class=&quot;edited&quot;&gt;）</span></span>
+<span class="line"><span>   - 内容片段 + 链接列表（class=&quot;post&quot;&gt; 提取，filter_links 过滤 SMF 模板域名）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>3. 转中国时间 _btc_to_china_date()：UTC+8</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>4. 更新 pipeline_log → mark_done(tid, 2, ...)</span></span>
+<span class="line"><span>   记录：发布时间、发布者、HTML 文件路径</span></span>
+<span class="line"><span>   标记：模块2 状态为&quot;已完成&quot;</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>5. 刷新 _tid.md → generate_md(tid)</span></span>
+<span class="line"><span>   写入：发布者、发布时间、流水线标记（模块1/4 → 模块2/4）</span></span>
+<span class="line"><span>   数据源：从 pipeline_log 读取，不依赖 batch_details.json</span></span></code></pre></div><h2 id="tid-md-内容-m2-追加后" tabindex="-1"><code>_tid.md</code> 内容（M2 追加后） <a class="header-anchor" href="#tid-md-内容-m2-追加后" aria-label="Permalink to &quot;\`_tid.md\` 内容（M2 追加后）&quot;">​</a></h2><div class="language-markdown vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;"># [</span><span style="--shiki-light:#032F62;--shiki-light-text-decoration:underline;--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline;">ANN</span><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">] 标题原文</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">&gt; </span><span style="--shiki-light:#24292E;--shiki-light-font-style:italic;--shiki-dark:#E1E4E8;--shiki-dark-font-style:italic;">*中文副标题*</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">（可选）</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-light-font-weight:bold;--shiki-dark:#E1E4E8;--shiki-dark-font-weight:bold;"> **详情页:**</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> &lt;</span><span style="--shiki-light:#24292E;--shiki-light-text-decoration:underline;--shiki-dark:#E1E4E8;--shiki-dark-text-decoration:underline;">https://bitcointalk.org/index.php?topic={tid}.0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-light-font-weight:bold;--shiki-dark:#E1E4E8;--shiki-dark-font-weight:bold;"> **发布者:**</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> poster_name</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-light-font-weight:bold;--shiki-dark:#E1E4E8;--shiki-dark-font-weight:bold;"> **发布时间:**</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> 2026-06-08 12:34:56</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-light-font-weight:bold;--shiki-dark:#E1E4E8;--shiki-dark-font-weight:bold;"> **流水线:**</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> 模块2/4 · 已抓取</span></span></code></pre></div><h2 id="防封控" tabindex="-1">防封控 <a class="header-anchor" href="#防封控" aria-label="Permalink to &quot;防封控&quot;">​</a></h2><ul><li><code>--tid-list</code> 模式每帖间隔 5 秒</li><li><code>auto_pipeline.py</code> 同样 5 秒间隔</li></ul>`,9)])])}const g=a(e,[["render",l]]);export{k as __pageData,g as default};
